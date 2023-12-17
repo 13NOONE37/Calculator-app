@@ -6,7 +6,6 @@ import setTheme from './utils/setTheme';
 
 //Set default theme
 setTheme(getDefaultTheme());
-setTheme('dark');
 //Change theme on button click
 handleThemeChange();
 
